@@ -1,3 +1,3 @@
-This is a Test Driven Development practice folder. 
+Practicing Test Driven Development
 
 - DenaitM
